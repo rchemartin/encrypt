@@ -1,0 +1,19 @@
+{
+  "name": "@romainch87/iut-encrypt",
+  "version": "1.0.0",
+  "description": "IUT Encrypt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "romainch87",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rchemartin/npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rchemartin/npm/issues"
+  },
+  "homepage": "https://github.com/rchemartin/npm#readme"
+}
